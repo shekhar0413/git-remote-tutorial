@@ -1,1 +1,1 @@
-Foo Bar Baz, "from local" !
+Foo Bar Baz!
